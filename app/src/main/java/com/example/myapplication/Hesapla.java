@@ -11,22 +11,22 @@ public class Hesapla {
 
 
     public float toplam() {
-        return gelenSayi2 + gelenSayi2;
+        return gelenSayi1 + gelenSayi2;
 
     }
 
     public float fark() {
-        return gelenSayi2 - gelenSayi2;
+        return gelenSayi1 - gelenSayi2;
 
     }
 
     public float bolum() {
-        return gelenSayi2 / gelenSayi2;
+        return gelenSayi1 / gelenSayi2;
 
     }
 
     public float carpim() {
-        return gelenSayi2 * gelenSayi2;
+        return gelenSayi1 * gelenSayi2;
 
     }
 }
